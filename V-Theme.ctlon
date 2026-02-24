@@ -1,0 +1,15 @@
+{
+    "id": "V-Theme",
+    "primaryColor": -16711831,
+    "secondaryColor": -16711831,
+    "blurColor": -16777216,
+    "widgetBlurColor": -1778384891,
+    "outlineColor": -16711831,
+    "textColor": -1,
+    "nonactiveTextColor": -1,
+    "slidersColor": -16711831,
+    "nonActiveModuleColor": 771751935,
+    "moduleColor": 2030043135,
+    "moduleOutlineColor": 2030043135,
+    "nonActiveOutlineModuleColor": 771751935
+}
